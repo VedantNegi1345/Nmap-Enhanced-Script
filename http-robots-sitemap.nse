@@ -52,7 +52,7 @@ Compressed sitemaps (.gz) are listed but not downloaded.
 -- |         http://127.0.0.1:8080/
 -- |_        http://127.0.0.1:8080/about
 
-author = "Your Name"
+author = "Eddie Bell; Modified by Vedant Negi"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"discovery", "safe"}
 

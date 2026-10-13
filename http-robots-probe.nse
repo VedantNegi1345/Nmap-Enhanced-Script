@@ -40,7 +40,7 @@ answer, the script falls back to GET.
 -- |     /old/ [301 -> /new/]
 -- |_    /private/ [401]
 
-author = "Your Name"
+author = "Eddie Bell; Modified by Vedant Negi"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"discovery", "safe"}
 
